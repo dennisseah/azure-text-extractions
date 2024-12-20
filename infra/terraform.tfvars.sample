@@ -1,0 +1,2 @@
+resource_prefix = "<uniq-prefix>"
+azure_subscription_id = "<your subscription id>"
